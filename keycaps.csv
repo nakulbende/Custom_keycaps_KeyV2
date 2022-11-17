@@ -1,0 +1,29 @@
+Legend = ["Esc","1","2","3","4","5","6","7","8","9","0","","","q","w","e","r","t","y","u","I","o","p","","⇪","a","s","d","f","g","h","j","k","l",";","shift","ctrl","z","x","c","v","b","n","m",",",".","/","↵","q","meta","[","]","alt","r"];
+
+Top_legend = ["~`","!","@","#","$","%","^","&","*","(",")","","","","","","","","","","","","","","⇧","","","","","","","","","",":","","","","","","","","","","<",">","?","","","","","","",""];
+
+Front_legend = ["⏯","+","-","*","/","🖩","☼","⛯⁺","⛯⁻","","","","","","","7","8","9","{","}","[","]","\ |","Num Lck","","⇡","","4","5","6","","▲","","°","'","","⇠","⇣","⇢","1","2","3","◀","▼","▶","","","","","","","","⌸"];
+
+Front_legend_extra = [,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
+
+Row = [1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5];
+
+Column = [1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9];
+
+Legend_Font = ["Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Segoe UI Symbol","Segoe UI Symbol","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Segoe UI Symbol","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Wingdings","Zilla Slab","Segoe UI Symbol","Segoe UI Symbol","Zilla Slab","Wingdings"];
+
+Legend_size = [4,4,4,4,4,4,4,4,4,4,4,6,6,6,6,6,6,6,6,6,6,6,6,6,4,6,6,6,6,6,6,6,6,6,4,6,6,6,6,6,6,6,6,6,4,4,4,6,6,6,6,6,6,6];
+
+Legend_pos = [[0, 0.75],[0, 0.75],[0, 0.75],[0, 0.75],[0, 0.75],[0, 0.75],[0, 0.75],[0, 0.75],[0, 0.75],[0, 0.75],[0, 0.75],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0, 0.75],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0, 0.75],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0, 0.75],[0, 0.75],[0, 0.75],[0, 0.75],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0]];
+
+Top_legend_size = [4,4,4,4,4,4,4,4,4,4,4,"","","","","","","","","","","","","",4,"","","","","","","","","",4,"","","","","","","","","",4,4,4,"","","","","","",""];
+
+Top_legend_pos = [[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],,,,,,,,,,,,,,[0, -0.75],,,,,,,,,,[0, -0.75],,,,,,,,,,[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],,,,,,];
+
+Front_legend_font = ["Segoe UI Symbol","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Zilla Slab","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Zilla Slab","Zilla Slab","Zilla Slab","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Zilla Slab","Zilla Slab","Zilla Slab","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","Segoe UI Symbol","","","","","Segoe UI Symbol"];
+
+Front_legend_size = [4,4,4,4,4,4,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,"","","","",4]
+
+Front_legend_pos = [[0,-0.75],[0,-0.75],[0,-0.75],[0,-0.75],[0,-0.75],[0,-0.75],[0,-0.75],[0,-0.75],[0,-0.75],[0,-0.75],[0,-0.75],[0,-0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[0, -0.75],[-1,-0.75],[-1,-0.75],[0, -0.75],,,,,[0, -0.75]];
+
+Front_leg_extra_position = [,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[1,-0.75],[1,-0.75],,,,,,];
